@@ -12,6 +12,6 @@ public class PerimeterOfParallelogram {
         System.out.print("enter the height of Parallelogram: ");
         float height= input.nextFloat();
 
-        System.out.print("Perimeter of Parallelogram is: " + 2*(base+height));
+        System.out.print("Perimeter of Parallelogram is: " + 2*(base + height));
     }
 }

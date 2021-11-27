@@ -9,6 +9,6 @@ public class PerimeterOfCircle {
         System.out.print("Enter the radius of the circle: ");
         double radius = input.nextDouble();
 
-        System.out.print("The perimeter of the circle is " + (2 * Math.PI * radius));
+        System.out.print("The perimeter of the circle is: " + (2 * Math.PI * radius));
     }
 }

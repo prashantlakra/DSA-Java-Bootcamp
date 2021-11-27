@@ -12,6 +12,6 @@ public class AreaOfParallelogram {
 
         double area = b * h;
 
-        System.out.print("Area of parallelogram is " + area);
+        System.out.print("Area of parallelogram is: " + area);
     }
 }

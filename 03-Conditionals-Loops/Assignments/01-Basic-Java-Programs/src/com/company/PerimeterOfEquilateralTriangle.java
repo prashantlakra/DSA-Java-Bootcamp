@@ -9,6 +9,6 @@ public class PerimeterOfEquilateralTriangle {
         System.out.print("Enter the length of a side of equilateral triangle: ");
         double side = input.nextDouble();
 
-        System.out.print("The perimeter of the equilateral triangle is " + (3 * side) + ".");
+        System.out.print("The perimeter of the equilateral triangle is: " + (3 * side));
     }
 }
